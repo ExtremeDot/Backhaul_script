@@ -510,11 +510,11 @@ sudo apt update -y && sudo apt install -y python3 python3-pip curl && pip3 insta
 ```
 - اجرای اسکریپت
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/Backhaul_script/refs/heads/main/backhaul.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ExtremeDot/Backhaul_script/refs/heads/main/backhaul.sh)"
 ```
 - در صورتی که سرور شما externally managed بود، از کامند زیر استفاده نمایید
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/Azumi67/Backhaul_script/refs/heads/main/managed.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/ExtremeDot/Backhaul_script/refs/heads/main/managed.sh)"
 ```
 ---------------------------------------------
 ![R23 (1)](https://github.com/Azumi67/FRP-V2ray-Loadbalance/assets/119934376/18d12405-d354-48ac-9084-fff98d61d91c)
